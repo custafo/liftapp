@@ -1,7 +1,9 @@
 public class Passenger {
-    // name
-    // address
-    // rate
-    // hasanydebt
-    // age
+    private String name;
+    private String address;
+    private String rate;
+    private boolean hasAnyDebt;
+    private int age;
+
+
 }
